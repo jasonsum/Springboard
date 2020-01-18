@@ -1,0 +1,155 @@
+STOPABBR;STOPNAME;LATITUDE;LONGITUDE
+"23041";"I-25 & Broadway Station";39.701958;-104.990075
+"23042";"Alameda Station";39.708706;-104.993143
+"23043";"10th & Osage Station";39.732222;-105.005654
+"23044";"Colfax at Auraria Station";39.740285;-105.001608
+"23046";"16th & California Station";39.744907;-104.992421
+"23047";"18th & California Station";39.746846;-104.989894
+"23048";"20th & Welton Station";39.748074;-104.986647
+"23049";"25th & Welton Station";39.753528;-104.979493
+"23051";"30th & Downing Station";39.759213;-104.973456
+"23053";"25th & Welton Station";39.753227;-104.97998
+"23054";"20th & Welton Station";39.747879;-104.987032
+"23055";"18th & Stout Station";39.747997;-104.990429
+"23056";"16th & Stout Station";39.746121;-104.992838
+"23058";"Colfax at Auraria Station";39.74033;-105.002519
+"23059";"10th & Osage Station";39.731664;-105.005549
+"23060";"Alameda Station";39.708196;-104.992785
+"23061";"I-25 & Broadway Station";39.701418;-104.990111
+"23708";"27th & Welton Station";39.755249;-104.977279
+"23709";"27th & Welton Station";39.754909;-104.977791
+"24882";"Evans Station";39.678143;-104.992653
+"24890";"Englewood Station";39.655904;-104.999736
+"24892";"Oxford - City of Sheridan Station";39.64339;-105.00457
+"24894";"Littleton / Downtown Station {1303}";39.612258;-105.014684
+"24896";"Littleton / Mineral Ave Station {1303}";39.580413;-105.024812
+"25427";"Auraria West Station";39.742027;-105.010937
+"25428";"Empower Field at Mile High Station";39.743543;-105.013526
+"25429";"Pepsi Center / Elitch Gardens Station";39.748736;-105.00943
+"25430";"Union Station Track 11";39.755422;-105.00297
+"25431";"Auraria West Station";39.741316;-105.010685
+"25432";"Empower Field at Mile High Station";39.743342;-105.012761
+"25433";"Pepsi Center / Elitch Gardens Station";39.748568;-105.009966
+"25434";"Union Station Track 12";39.755125;-105.003351
+"25435";"Evans Station";39.677331;-104.992946
+"25436";"Englewood Station";39.655291;-105.000065
+"25437";"Oxford - City of Sheridan Station";39.642554;-105.004967
+"25438";"Littleton / Downtown Station {1303}";39.611761;-105.015065
+"25439";"Littleton / Mineral Ave Station {1303}";39.579865;-105.025202
+"25884";"Theatre District/Convention Ctr Station";39.743866;-104.996427
+"25971";"Switch 21";39.752143;-104.981374
+"25973";"Lincoln Station  {1401}";39.54579;-104.86963
+"25974";"Dayton Station";39.643119;-104.87767
+"25975";"Nine Mile Tail Tracks";39.658222;-104.843663
+"25976";"Broadway Junction North";39.700304;-104.989948
+"25977";"Broadway Junction South";39.698793;-104.989794
+"25978";"Southmoor Station";39.648226;-104.9161
+"25979";"Yale Station";39.668627;-104.927157
+"25980";"Colorado Station";39.679672;-104.937714
+"25981";"University of Denver Station";39.685254;-104.964706
+"25982";"Louisiana & Pearl Station";39.692825;-104.978216
+"25983";"Orchard Station {1403}";39.613379;-104.896079
+"25984";"Broadway Overcrossing";39.70007;-104.987688
+"25985";"Southmoor Tail";39.647306;-104.915584
+"25986";"I-225 Junction East";39.635751;-104.893955
+"25987";"Nine Mile Station";39.657552;-104.845102
+"25988";"County Line Station  {1401}";39.561818;-104.872282
+"25989";"Dry Creek Station  {1406}";39.579064;-104.876783
+"25990";"Arapahoe at Village Center Station  {1403}";39.600301;-104.888555
+"25991";"Belleview Station {1411}";39.627686;-104.904568
+"26271";"Lincoln Tail Tracks {1401}";39.541931;-104.869228
+"29101";"Elati Division - North";39.671542;-104.994314
+"29102";"Elati Division - South";39.664688;-104.996116
+"29104";"Theatre District / Convention Center Station";39.743652;-104.997481
+"31041";"CPV Junction";39.740054;-105.007599
+"33378";"I-25 & Broadway Yard N";39.705799;-104.991211
+"33379";"I-25 & Broadway Yard S";39.699882;-104.990062
+"33497";"Elati Division";39.66771;-104.995366
+"33511";"Elati Division - Relief";39.667738;-104.995355
+"33558";"Decatur / Federal Station";39.737129;-105.024452
+"33559";"Knox Station";39.735687;-105.033303
+"33560";"Perry Station";39.73479;-105.040409
+"33561";"Sheridan Station";39.735147;-105.053616
+"33562";"Lamar Station";39.736683;-105.066872
+"33563";"Wadsworth Station";39.736664;-105.082063
+"33564";"Garrison Station";39.736608;-105.099811
+"33565";"Oak Station";39.7374;-105.120463
+"33566";"Federal Center Station {1304}";39.720037;-105.12964
+"33567";"Red Rocks Community College Station";39.725078;-105.152812
+"33568";"Jeffco Government Center Station {1109}";39.726394;-105.200985
+"33941";"Knox Station";39.735353;-105.032364
+"33948";"Jeffco Government Center Station {1109}";39.726318;-105.201046
+"33955";"Federal Center Station {1304}";39.719895;-105.128448
+"33957";"Garrison Station";39.736524;-105.099125
+"33958";"Decatur / Federal Station";39.737394;-105.023633
+"33959";"Lamar Station";39.736662;-105.06591
+"33960";"Oak Station";39.73717;-105.119452
+"33965";"Perry Station";39.734688;-105.039597
+"33966";"Red Rocks Community College Station";39.725014;-105.151782
+"33967";"Sheridan Station";39.735114;-105.052794
+"33970";"Wadsworth Station";39.736607;-105.080761
+"34003";"Nine Mile Station";39.657344;-104.845575
+"34004";"Dayton Station";39.642743;-104.878433
+"34005";"Lincoln Station {1401}";39.546353;-104.869622
+"34006";"County Line Station {1401}";39.562189;-104.872231
+"34007";"Dry Creek Station {1406}";39.579326;-104.876957
+"34008";"Arapahoe at Village Center Station {1403}";39.600442;-104.888539
+"34009";"Orchard Station {1403}";39.613872;-104.896351
+"34010";"Belleview Station {1411}";39.628012;-104.904639
+"34011";"Southmoor Station";39.648971;-104.916439
+"34012";"Yale Station";39.669084;-104.927293
+"34013";"Colorado Station";39.679757;-104.938313
+"34014";"University of Denver Station";39.685437;-104.965175
+"34015";"Louisiana & Pearl Station";39.693283;-104.978684
+"34510";"Wheat Ridge - Ward Station Track 1";39.788077;-105.132658
+"34511";"Wheat Ridge - Ward Station Track 2";39.787986;-105.133345
+"34519";"Arvada Ridge Station Track 2";39.792694;-105.110879
+"34520";"Arvada Ridge Station Track 1";39.792562;-105.111727
+"34525";"60th & Sheridan - Arvada Gold Strike Station Track 2";39.803714;-105.048802
+"34526";"60th & Sheridan - Arvada Gold Strike Station Track 1";39.80364;-105.049564
+"34529";"Clear Creek - Federal Station Track 2";39.803879;-105.022902
+"34530";"Clear Creek - Federal Station Track 1";39.804019;-105.023739
+"34541";"Olde Town Arvada E-Bound";39.799041;-105.079948
+"34542";"Olde Town Arvada W-Bound";39.798843;-105.080742
+"34543";"Pecos Junction Station Track 2";39.805;-105.004814
+"34544";"Pecos Junction Station Track 1";39.805346;-105.005393
+"34558";"41st & Fox Station Track 1";39.773673;-104.996885
+"34559";"41st & Fox Station Track 2";39.773021;-104.996992
+"34560";"Westminster Station S-Bound";39.82239;-105.028733
+"34561";"Westminster Station N-Bound";39.823078;-105.029428
+"34574";"Iliff Station";39.673649;-104.826472
+"34575";"Iliff Station";39.672974;-104.827232
+"34577";"Florida Station";39.690358;-104.82847
+"34578";"Florida Station";39.689534;-104.828474
+"34579";"Aurora Metro Center Station";39.708951;-104.818993
+"34580";"Aurora Metro Center Station";39.70843;-104.819136
+"34581";"2nd & Abilene Station";39.719781;-104.825491
+"34582";"2nd & Abilene Station";39.71895;-104.825879
+"34583";"13th Ave Station";39.735376;-104.823497
+"34584";"13th Ave Station";39.73446;-104.82369
+"34585";"Colfax Station";39.740689;-104.826999
+"34586";"Colfax Station";39.739748;-104.826916
+"34587";"Fitzsimons Station";39.755008;-104.840933
+"34588";"Fitzsimons Station";39.754789;-104.839819
+"34693";"Commuter Rail Maintenance Facility South End";39.784485;-104.99613
+"34744";"Peoria Station";39.767176;-104.849977
+"34745";"Peoria Station";39.767391;-104.851022
+"34746";"Peoria Tail Tracks";39.767389;-104.852078
+"34780";"Union Station Track 6";39.754296;-104.999893
+"34781";"Union Station Track 7";39.753772;-105.000812
+"34782";"Union Station Track 8";39.753838;-105.000962
+"34904";"Mariposa Yard";39.726768;-105.003664
+"35204";"Sky Ridge Station";39.532059;-104.870263
+"35205";"Sky Ridge Station";39.532536;-104.870481
+"35207";"Lone Tree City Center Station";39.527318;-104.863268
+"35209";"Lone Tree City Center Station";39.528022;-104.863143
+"35211";"Ridgegate Parkway Station";39.520244;-104.865725
+"35212";"Ridgegate Parkway Station";39.520791;-104.86521
+"35266";"16th & Stout Station {Lv}";39.746121;-104.99284
+"50101";"Union Station Tail Tracks";39.756166;-105.002369
+"50104";"Union Station Tail Tracks";39.756158;-105.00242
+"50105";"Mineral Tail Tracks";39.578781;-105.025718
+"99760";"Mariposa Division";39.727125;-105.004027
+"99761";"East Loop Turnaround";39.748347;-104.988924
+"99772";"CPV Junction";39.739604;-105.006839
+"99779";"Mariposa Division";39.727163;-105.004142
